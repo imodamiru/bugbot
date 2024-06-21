@@ -10,19 +10,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916909137213"
+global.ownernomer = "+94762593170"
 global.ownername = "🦄Dream Guy Xeon"
-global.ytname = "YT: Xeon"
-global.socialm = "GitHub: DGXeon"
-global.location = "India, Mizoram, Aizawl"
+global.ytname = "YT: techblur_inc"
+global.socialm = "GitHub: imodamiru"
+global.location = "Silanka, Southern, Galle"
 
-global.ownernumber = '916909137213'  //creator number
-global.ownername = '🦄Dream Guy Xeon' //owner name
+global.ownernumber = '94762593170'  //creator number
+global.ownername = '🦄Dream Guy damiru' //owner name
 global.botname = 'ˣᵉᵒⁿ ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🦄DGXeon\n\nContact: +916909137213'
+global.author = '🦄DGXeon\n\nContact: +94762593170'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -35,13 +35,13 @@ global.link = 'https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20'
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
